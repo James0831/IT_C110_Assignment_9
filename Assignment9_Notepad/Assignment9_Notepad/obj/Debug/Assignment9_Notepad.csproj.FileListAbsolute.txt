@@ -1,0 +1,14 @@
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\bin\Debug\Assignment9_Notepad.exe.config
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\bin\Debug\Assignment9_Notepad.exe
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\bin\Debug\Assignment9_Notepad.pdb
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.csprojResolveAssemblyReference.cache
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\MainWindow.g.cs
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\App.g.cs
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad_MarkupCompile.cache
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad_MarkupCompile.lref
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\MainWindow.baml
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.g.resources
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.Properties.Resources.resources
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.csproj.GenerateResource.Cache
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.exe
+c:\users\jcarroll\documents\visual studio 2015\Projects\Assignment9_Notepad\Assignment9_Notepad\obj\Debug\Assignment9_Notepad.pdb
